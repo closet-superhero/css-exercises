@@ -1,0 +1,19 @@
+/* Stylesheet for Foundations 2 */
+.odd {
+    background-color: rgb(231, 103, 167);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#num-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.larger-font {
+    font-size: 24px;
+}
+
+#num-4 {
+    background-color: rgb(45, 235, 45);
+    font-weight: bold;
+}
